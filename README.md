@@ -1,8 +1,8 @@
 ## Special Instruction
 Prerequisite:
-1. scripts are expected data to be under Data folder: Data/household_power_consumption.txt
-2. run script as "source("plot1.R")
-3. PNG will be created at same folder. 
+  * 1. scripts are expected data to be under Data folder: Data/household_power_consumption.txt
+  * 2. run script as "source("plot1.R")
+  * 3. PNG will be created at same folder. 
 
 ## Introduction
 
